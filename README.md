@@ -1,2 +1,4 @@
 # Hi there!👋 I'm Shyam Sunder
-- [ ] 📑Learning new things
+- [ ] Learning new things📑
+🇮🇳
+
